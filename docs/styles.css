@@ -1,0 +1,50 @@
+.links{
+
+    }
+    h1{
+    position: relative;
+    margin-left: 45%;
+    }
+    .list{
+    
+    width: 30%;
+    position: absolute;
+    }
+    ul{
+    display: inline;
+    }
+    li{
+    margin-top: 10px;
+    position: relative;
+    margin-left: 40%;
+    display: block;
+    font-size: 20px;
+    }
+    a{
+    text-decoration: none;
+    color: navy;
+    }
+    table{
+    width: 70%;
+    margin-left: 30%;
+    }
+    table, td, th{
+    border: solid;
+    border-collapse: collapse;
+    
+    }
+    th{
+    height: 80px;
+    background-color: lightseagreen;
+    }
+    td{
+    background-color: lightgreen;
+    height: 80px;
+    text-align: center;
+    }
+    .blank{
+   background-color: gray;
+    }
+a:hover{
+color: maroon;
+}
